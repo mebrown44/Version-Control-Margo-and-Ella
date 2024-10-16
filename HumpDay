@@ -1,0 +1,7 @@
+print("HUMP DAY CALCULATOR")
+name = input("Please enter your name: ")
+day = input("Please enter what day of the week it is out of the following list (case sensitive): Mon, Tue, Wed, Thu, Fri, Sat, Sun : ")
+if day="Wed"
+  print("Today is Hump Day!")
+else
+  print("Today is not Hump Day.")
